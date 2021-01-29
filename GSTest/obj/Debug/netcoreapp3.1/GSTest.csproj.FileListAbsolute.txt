@@ -1,0 +1,13 @@
+C:\Users\Pradi\source\repos\GSTest\bin\Debug\netcoreapp3.1\GSTest.exe
+C:\Users\Pradi\source\repos\GSTest\bin\Debug\netcoreapp3.1\GSTest.deps.json
+C:\Users\Pradi\source\repos\GSTest\bin\Debug\netcoreapp3.1\GSTest.runtimeconfig.json
+C:\Users\Pradi\source\repos\GSTest\bin\Debug\netcoreapp3.1\GSTest.runtimeconfig.dev.json
+C:\Users\Pradi\source\repos\GSTest\bin\Debug\netcoreapp3.1\GSTest.dll
+C:\Users\Pradi\source\repos\GSTest\bin\Debug\netcoreapp3.1\GSTest.pdb
+C:\Users\Pradi\source\repos\GSTest\obj\Debug\netcoreapp3.1\GSTest.csprojAssemblyReference.cache
+C:\Users\Pradi\source\repos\GSTest\obj\Debug\netcoreapp3.1\GSTest.AssemblyInfoInputs.cache
+C:\Users\Pradi\source\repos\GSTest\obj\Debug\netcoreapp3.1\GSTest.AssemblyInfo.cs
+C:\Users\Pradi\source\repos\GSTest\obj\Debug\netcoreapp3.1\GSTest.csproj.CoreCompileInputs.cache
+C:\Users\Pradi\source\repos\GSTest\obj\Debug\netcoreapp3.1\GSTest.dll
+C:\Users\Pradi\source\repos\GSTest\obj\Debug\netcoreapp3.1\GSTest.pdb
+C:\Users\Pradi\source\repos\GSTest\obj\Debug\netcoreapp3.1\GSTest.genruntimeconfig.cache
